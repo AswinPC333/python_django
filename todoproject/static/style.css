@@ -1,0 +1,12 @@
+.banner{
+    background-color: lightblue;
+    height: 100px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.banner-text{
+    font-style: italic;
+    position: absolute;
+    transform: transform;
+
+}
